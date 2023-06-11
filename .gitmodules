@@ -1,0 +1,3 @@
+[submodule "secser_robot"]
+	path = secser_robot
+	url = https://github.com/Robotics-Ro/secser_robot.git
