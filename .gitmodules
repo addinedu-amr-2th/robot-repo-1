@@ -1,3 +1,0 @@
-[submodule "ros2/src/pinklab_minibot_robot"]
-	path = ros2/src/pinklab_minibot_robot
-	url = https://github.com/byeongkyu/pinklab_minibot_robot.git
