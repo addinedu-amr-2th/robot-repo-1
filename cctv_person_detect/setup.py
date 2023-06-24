@@ -23,7 +23,8 @@ setup(
             'coordinate_publisher = cctv_person_detect.coordinate_publisher:main',
             'coordinate_publisher_doingnot = cctv_person_detect.coordinate_publisher_doingnot:main',
             'coordinate_subscriber = cctv_person_detect.coordinate_subscriber:main',
-            'test = cctv_person_detect.test:main'
+            'test = cctv_person_detect.test:main',
+            'webcam = cctv_person_detect.webcam:main
         ],
     },
 )
