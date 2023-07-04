@@ -6,7 +6,7 @@
   
 #### depth_package
 - realsense_publisher.py: Jetson에서 D435를 통해 color image를 publish. 이후, 객체의 중심 좌표 list를 subscribe하여 depth frame으로부터 depth를 얻고 가장 작은 값을 publish.
-- center_publisher.py: 서버 컴퓨터에서 color image를 subscribe하고, YOLO를 통해 객체를 인식 후 중심좌표를 list의 형태로 publish.
+- center_publisher.py: 서버 컴퓨터에서 color image를 subscribe하고, YOLO를 통해 객체를 인식 후 중심 좌표를 list의 형태로 publish.
 - depth_subscriber.py: 라즈베리파이에서 depth를 subscribe.
   
 
