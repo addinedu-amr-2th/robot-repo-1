@@ -19,5 +19,10 @@ $ ros2 run cctv_person_detect coordinate_publisher
 ```
 $ ros2 run cctv_person_detect coordinate_subscriber
 ```
+#### 좌표변환 시각화
+<img src=https://github.com/addinedu-amr-2th/robot-repo-1/assets/124948998/505f2fff-dbda-4892-937f-afd512b0b2ab>
+
+#### 시연영상
+<img src=https://github.com/addinedu-amr-2th/robot-repo-1/assets/124948998/2a3c92f1-a072-45f2-90d2-8642dd3b7606>
 
 
