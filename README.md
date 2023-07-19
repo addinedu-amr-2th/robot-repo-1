@@ -2,8 +2,7 @@
 <img src="./image/Image01.jpg" alt="이미지" width="640" height="320"> <br>
 <span style='background-color:#dcffe4'>사람이 도와주지 않으면 서빙이 안돼는 현세대 서빙로봇을 보완한 차세대 서빙 로봇</span> <br>
 
-## 데모영상
-<img src="./image/demo.gif" alt="이미지" width="640" height="240"> <br>
+## 각 담당파트
 Planning part : 임용재 <br>
 System part : 노태형 <br>
 DL part: 신재성 <br>
@@ -56,8 +55,6 @@ OS : Linux 20.04 LTS <br>
 MCU : Arduino Mega Controller Board <br>
 Motor : 12V DC Motor X 2 <br>
 Wheel : differential steering
-
-<위 2개 너무 긴거 같아서 따로 시스템 dev로 뺄까 고민 중>
 
 ### 사용된 기술
 
